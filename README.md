@@ -12,5 +12,7 @@
   # Technology Requirements
 
   Node: V >= 22 'Running on 22.18.0'
+
   React >= 18 'Running on 18.3.1 (Specified in package.json)'
+  
   NPM: >=10 'Running on 10.9.3'
